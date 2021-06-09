@@ -58,7 +58,7 @@ http://159.253.18.97:8000/128kbit.mp3
 http://sc1c-sjc.1.fm:7008/;
 
 #EXTINF:-1,1.FM - Absolute Trance
-http://sc-trance.1.fm:8040/;
+http://sc-trance.1.fm:8040/;  
 
 #EXTINF:-1,Music Choice Dance/EDM VIP US
 http://ipflix.click:8080/Ester/s9mdb4ez9y/683905
