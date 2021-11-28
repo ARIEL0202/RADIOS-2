@@ -1,6 +1,3 @@
-
-
-
 #EXTINF:-1 tvg-id="140332" tvg-name="Cadena 103" tvg-logo="https://lh3.googleusercontent.com/-EkNjMszVjTc/X1THnKTiRPI/AAAAAAAA5Sw/nm5mnSJUroIMJ8zM_ifKOqz2NpkhMnVKACK8BGAsYHg/s0/2020-09-06.png" group-title="Argentina", Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
 
